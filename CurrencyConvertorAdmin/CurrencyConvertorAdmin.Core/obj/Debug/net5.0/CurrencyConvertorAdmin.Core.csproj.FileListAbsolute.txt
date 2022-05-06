@@ -1,0 +1,12 @@
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\bin\Debug\net5.0\CurrencyConvertorAdmin.Core.deps.json
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\bin\Debug\net5.0\CurrencyConvertorAdmin.Core.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\bin\Debug\net5.0\ref\CurrencyConvertorAdmin.Core.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\bin\Debug\net5.0\CurrencyConvertorAdmin.Core.pdb
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\obj\Debug\net5.0\CurrencyConvertorAdmin.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\obj\Debug\net5.0\CurrencyConvertorAdmin.Core.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\obj\Debug\net5.0\CurrencyConvertorAdmin.Core.AssemblyInfo.cs
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\obj\Debug\net5.0\CurrencyConvertorAdmin.Core.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\obj\Debug\net5.0\CurrencyConvertorAdmin.Core.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\obj\Debug\net5.0\ref\CurrencyConvertorAdmin.Core.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\obj\Debug\net5.0\CurrencyConvertorAdmin.Core.pdb
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Core\obj\Debug\net5.0\CurrencyConvertorAdmin.Core.csproj.AssemblyReference.cache

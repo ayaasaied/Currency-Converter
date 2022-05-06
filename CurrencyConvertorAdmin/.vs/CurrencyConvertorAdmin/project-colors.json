@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "04a80e5f-da75-471b-8b99-73526660ebd4": {
+      "ProjectGuid": "04a80e5f-da75-471b-8b99-73526660ebd4",
+      "DisplayName": "CurrencyConvertorAdmin.Infrastructure",
+      "ColorIndex": 0
+    },
+    "85967136-bc74-4287-9e8d-7855c03ddefe": {
+      "ProjectGuid": "85967136-bc74-4287-9e8d-7855c03ddefe",
+      "DisplayName": "CurrencyConvertorAdmin.Core",
+      "ColorIndex": 1
+    },
+    "ece7a0a5-f621-4af1-a470-1864fcce43b4": {
+      "ProjectGuid": "ece7a0a5-f621-4af1-a470-1864fcce43b4",
+      "DisplayName": "CurrencyConvertorAdmin.API",
+      "ColorIndex": 2
+    },
+    "28edac4d-d512-4307-ba12-caef4906b020": {
+      "ProjectGuid": "28edac4d-d512-4307-ba12-caef4906b020",
+      "DisplayName": "CurrencyConvertorAdmin.Services",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

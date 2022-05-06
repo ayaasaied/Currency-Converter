@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Infrastructure\\CurrencyConvertorAdmin.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Core\\CurrencyConvertorAdmin.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Core\\CurrencyConvertorAdmin.Core.csproj",
+        "projectName": "CurrencyConvertorAdmin.Core",
+        "projectPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Core\\CurrencyConvertorAdmin.Core.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Infrastructure\\CurrencyConvertorAdmin.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Infrastructure\\CurrencyConvertorAdmin.Infrastructure.csproj",
+        "projectName": "CurrencyConvertorAdmin.Infrastructure",
+        "projectPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Infrastructure\\CurrencyConvertorAdmin.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Core\\CurrencyConvertorAdmin.Core.csproj": {
+                "projectPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Core\\CurrencyConvertorAdmin.Core.csproj"
+              },
+              "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Services\\CurrencyConvertorAdmin.Services.csproj": {
+                "projectPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Services\\CurrencyConvertorAdmin.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Services\\CurrencyConvertorAdmin.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Services\\CurrencyConvertorAdmin.Services.csproj",
+        "projectName": "CurrencyConvertorAdmin.Services",
+        "projectPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Services\\CurrencyConvertorAdmin.Services.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Core\\CurrencyConvertorAdmin.Core.csproj": {
+                "projectPath": "F:\\1-MVC PROJECT\\Algoriza project\\CurrencyConvertorAdmin\\CurrencyConvertorAdmin.Core\\CurrencyConvertorAdmin.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

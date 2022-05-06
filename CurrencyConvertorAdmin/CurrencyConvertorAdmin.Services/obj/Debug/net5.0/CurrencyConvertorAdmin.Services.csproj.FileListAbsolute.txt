@@ -1,0 +1,15 @@
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\CurrencyConvertorAdmin.Services.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\CurrencyConvertorAdmin.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\CurrencyConvertorAdmin.Services.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\CurrencyConvertorAdmin.Services.AssemblyInfo.cs
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\CurrencyConvertorAdmin.Services.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\bin\Debug\net5.0\CurrencyConvertorAdmin.Services.deps.json
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\bin\Debug\net5.0\CurrencyConvertorAdmin.Services.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\bin\Debug\net5.0\ref\CurrencyConvertorAdmin.Services.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\bin\Debug\net5.0\CurrencyConvertorAdmin.Services.pdb
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\bin\Debug\net5.0\CurrencyConvertorAdmin.Core.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\bin\Debug\net5.0\CurrencyConvertorAdmin.Core.pdb
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\CurrencyConvertorAdmin.Services.csproj.CopyComplete
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\CurrencyConvertorAdmin.Services.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\ref\CurrencyConvertorAdmin.Services.dll
+F:\1-MVC PROJECT\Algoriza project\CurrencyConvertorAdmin\CurrencyConvertorAdmin.Services\obj\Debug\net5.0\CurrencyConvertorAdmin.Services.pdb
